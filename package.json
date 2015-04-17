@@ -1,0 +1,26 @@
+{
+  "name": "through2-concat",
+  "version": "1.0.0",
+  "description": "simple concat stream with through2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangzuo/through2-concat"
+  },
+  "keywords": [
+    "through2",
+    "stream"
+  ],
+  "author": "wang zuo <wzuoadjusted@gmail.com> (https://twitter.com/wang_zuo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangzuo/through2-concat/issues"
+  },
+  "homepage": "https://github.com/wangzuo/through2-concat",
+  "dependencies": {
+    "through2": "^0.6.5"
+  }
+}
