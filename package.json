@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/wangzuo/through2-concat",
   "dependencies": {
-    "through2": "^0.6.5"
+    "through2": "^2.0.1"
   }
 }
